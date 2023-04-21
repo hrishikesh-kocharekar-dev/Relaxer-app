@@ -1,5 +1,5 @@
-const text = document.getElementById("text");
-const container = document.getElementById("container");
+const text = document.getElementById("text"),
+container = document.getElementById("container");
 const totalTime = 7500;
 
 const breatheTime = (totalTime / 5) * 2;
